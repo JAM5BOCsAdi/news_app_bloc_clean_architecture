@@ -16,6 +16,7 @@
 
 <h2>Explanation Images</h2>
 <p>Flutter Clean Architecture Series — Part 1 [Explanations & Setup]:</p>
+
 | | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 |<img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> | 
@@ -26,6 +27,7 @@
 <p>Flutter Clean Architecture Series — Part 3 [Local Data]:</p>
 
 <h2>Project Images</h2>
+
 | | |
 |:-------------------------:|:-------------------------:|
 |<img height="400 px" src=""> | <img height="400 px" src=""> |
