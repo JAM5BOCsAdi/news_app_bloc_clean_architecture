@@ -17,14 +17,17 @@
 <h2>Explanation Images</h2>
 <p>Flutter Clean Architecture Series — Part 1 [Explanations & Setup]:</p>
 
-| | | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> | 
-|<img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> |
-|<img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> |
+| | |
+|:-------------------------:|:-------------------------:|
+|<img height="400 px" src="https://github.com/JAM5BOCsAdi/news_app_bloc_clean_architecture/assets/90914431/28655f5c-a44d-499b-a5cc-c3595da16827"> | <img height="400 px" src="https://github.com/JAM5BOCsAdi/news_app_bloc_clean_architecture/assets/90914431/e06fee8a-fc18-4828-9127-387bb33d59f0"> | 
+
 
 <p>Flutter Clean Architecture Series — Part 2 [Remote Data]:</p>
 <p>Flutter Clean Architecture Series — Part 3 [Local Data]:</p>
+
+| |
+|:-------------------------:|
+|<img height="400 px" src="https://github.com/JAM5BOCsAdi/news_app_bloc_clean_architecture/assets/90914431/aaf18740-b148-4dbb-87ab-659949d09b55"> |
 
 <h2>Project Images</h2>
 
