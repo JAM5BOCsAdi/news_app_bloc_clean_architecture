@@ -3,6 +3,8 @@
 <p>News App using BLoC and Clean Architecture</p>
 
 <p>Watch the project on YouTube: <a href="https://www.youtube.com/watch?v=7V_P6dovixg&list=PLjyxas0TsCpnjpzCv3rnsX3LjS9G2K05f&index=1&t=653s">Click here to watch it</a></p>
+<p>Watch the project on GitHub: <a href="https://github.com/devmuaz/flutter_clean_architecture/tree/master">Click here to watch it</a></p>
+<p>The GitHub Project's Folder Structure is different (Better), and I am going to do it later like that.</p>
 
 <h2>Useful links for this project:</h2>
 
