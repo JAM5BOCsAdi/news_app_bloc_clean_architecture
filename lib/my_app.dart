@@ -56,8 +56,14 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'News App',
-      theme: FlexThemeData.light(scheme: FlexScheme.purpleM3),
-      darkTheme: FlexThemeData.dark(scheme: FlexScheme.purpleM3),
+      theme: FlexThemeData.light(
+        scheme: FlexScheme.purpleM3,
+        useMaterial3: true,
+      ),
+      darkTheme: FlexThemeData.dark(
+        scheme: FlexScheme.purpleM3,
+        useMaterial3: true,
+      ),
       themeMode: ThemeMode.system,
       home: PersistentTabView(
         context,
