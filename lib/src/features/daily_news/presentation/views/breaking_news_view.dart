@@ -1,6 +1,5 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
-import 'package:news_app_bloc_clean_architecture/src/core/constants/constants.dart';
 
 @RoutePage()
 class BreakingNewsView extends StatefulWidget {
@@ -17,15 +16,10 @@ class _BreakingNewsViewState extends State<BreakingNewsView> {
       appBar: AppBar(
         title: const Text('BreakingNewsView'),
       ),
-      body: SafeArea(
+      body: const SafeArea(
         child: Column(
           children: [
-            ElevatedButton(
-              onPressed: () {
-                context.router.pushNamed(kArticleDetailsViewPath);
-              },
-              child: const Text('Go to ArticleDetailsView'),
-            ),
+            Text('BreakingNewsView'),
           ],
         ),
       ),
