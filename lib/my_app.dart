@@ -57,13 +57,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return AnnotatedRegion<SystemUiOverlayStyle>(
-      value: SystemUiOverlayStyle(
-        // statusBarBrightness: Brightness.light,
-        // statusBarIconBrightness: Brightness.dark,
-        // statusBarColor: Colors.transparent,
-        systemNavigationBarIconBrightness: themeColor.getBrightness(context) == Brightness.light ? Brightness.light : Brightness.dark,
-        systemNavigationBarColor: themeColor.getBrightness(context) == Brightness.light ? Colors.white : Colors.black,
-      ),
+      value: themeColor.getSystemNavigationBarStyle(context),
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
         title: 'News App',
