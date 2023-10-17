@@ -15,6 +15,9 @@
 
 <p>REST API:</p>
 <p>News Api: <a href="https://newsapi.org/">Click here to watch it</a></p>
+<p>Top (business) headlines <a href="https://newsapi.org/docs/endpoints/top-headlines">Click here to watch it</a></p>
+
+
 
 <h2>Explanation Images</h2>
 <p>Flutter Clean Architecture Series — Part 1 [Explanations & Setup]:</p>

@@ -1,0 +1,275 @@
+https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=<Your API Key>
+
+NewsApi.org -> top (business) headlines:
+https://newsapi.org/docs/endpoints/top-headlines
+
+
+
+API response:
+
+{
+    "status": "ok",
+    "totalResults": 68,
+    "articles": [
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "John Viljoen, Anchalee Worrachate",
+            "title": "Stock Market Today: Dow, S&P Live Updates for Oct. 16 - Bloomberg",
+            "description": "European stocks and US equity futures fluctuated while Treasuries dropped as cautious traders tracked efforts by the US and its allies to prevent further escalation of the Israel-Hamas conflict.",
+            "url": "https://www.bloomberg.com/news/articles/2023-10-15/asia-set-for-early-losses-as-gaza-offensive-looms-markets-wrap",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inHpydkKdxAQ/v1/1200x800.jpg",
+            "publishedAt": "2023-10-16T07:32:45Z",
+            "content": "European stocks and US equity futures fluctuated while Treasuries dropped as cautious traders tracked efforts by the US and its allies to prevent further escalation of the Israel-Hamas conflict.\r\nTec… [+461 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Omkar Godbole",
+            "title": "Grayscale 'GBTC Discount' Narrows to Near 2-Year Low as SEC Misses ETF Appeal Window - CoinDesk",
+            "description": "The narrowing of the discount likely represents increased likelihood that Grayscale will be able to convert its close-ended bitcoin trust into a spot-based exchange-traded fund.",
+            "url": "https://www.coindesk.com/markets/2023/10/16/grayscale-gbtc-discount-narrows-to-near-2-year-low-as-sec-misses-etf-appeal-window/",
+            "urlToImage": "https://www.coindesk.com/resizer/g7Iee9PtFCJH9YINweYOOMsCUSc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/OHT566L4LBA2LJCROYQULHL2H4.png",
+            "publishedAt": "2023-10-16T06:42:00Z",
+            "content": "The widely tracked crypto market indicator \"GBTC discount\" narrowed to its lowest in 22 months on Friday, signaling increased optimism that Grayscale will be able to convert its close-ended bitcoin t… [+2137 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "U.Today"
+            },
+            "author": null,
+            "title": "US Government Holds $5B in Bitcoin: WSJ - U.Today",
+            "description": "The Wall Street Journal has revealed that the U.S. federal government holds a staggering $5 billion worth of Bitcoin after strategic crackdowns on cybercrime and darknet activities",
+            "url": "https://u.today/us-government-holds-5b-in-bitcoin-wsj",
+            "urlToImage": "https://u.today/sites/default/files/styles/twitter/public/2023-10/25566.jpeg",
+            "publishedAt": "2023-10-16T05:32:19Z",
+            "content": "A recent report from The Wall Street Journal has revealed that the U.S. federal government holds an astonishing $5 billion in Bitcoin, the world's largest cryptocurrency. This vast cryptocurrency for… [+1669 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Iris Ouyang",
+            "title": "PBOC Offers Most Cash Support Since 2020 as Debt Sales Surge - Bloomberg",
+            "description": "",
+            "url": "https://www.bloomberg.com/news/articles/2023-10-16/pboc-ramps-up-liquidity-support-to-boost-china-economic-recovery",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEu7aMMk1c2w/v0/1200x774.jpg",
+            "publishedAt": "2023-10-16T04:30:00Z",
+            "content": "Chinas central bank is making the biggest medium-term liquidity injection since 2020, stepping up efforts to support the nations economic recovery and debt sales. \r\nThe Peoples Bank of China added a … [+233 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ygorganization.com"
+            },
+            "author": null,
+            "title": "“QUARTER CENTURY CHRONICLE”: A Two Pack Double Header In Honor Of The 25th Anniversary [OCG] - YGOrganization",
+            "description": "400 Quarter Century Secret Rares, baby. The Special Packs \"QUARTER CENTURY CHRONICLE side:UNITY\" on sale February 23rd, 2023 and \"QUARTER CENTURY CHRONICLE side:PRIDE\" on sale March 23rd…",
+            "url": "https://ygorganization.com/quarter-century-chronicle-a-two-pack-double-header-in-honor-of-the-25th-anniversary-ocg/",
+            "urlToImage": "https://r2.ygorganization.com/2023/10/Dark_Yugi_VS_Kaiba_-_Battle_City.webp",
+            "publishedAt": "2023-10-16T04:22:29Z",
+            "content": "400 Quarter Century Secret Rares, baby.\r\nThe Special Packs “QUARTER CENTURY CHRONICLE side:UNITY” on sale February 23rd, 2023 and “QUARTER CENTURY CHRONICLE side:PRIDE” on sale March 23rd, 2024 will … [+965 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Nic Fildes",
+            "title": "Albemarle abandons Australian lithium deal after billionaire Gina Rinehart builds stake - Financial Times",
+            "description": "The US company has walked away from a $4.2bn takeover of Liontown citing ‘growing complexities’",
+            "url": "https://www.ft.com/content/1c72ff84-326a-4284-b055-3da808adaf07",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fc51e9c5e-064d-44f3-9a1b-6646bbd7e3ac.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-10-16T04:12:59Z",
+            "content": "Albemarles $4.2bn takeover of lithium developer Liontown Resources has collapsed after Australias richest person Gina Rinehart acquired a big enough stake in the business to block the deal.\r\nUS miner… [+2618 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Selina Cheng, Rebecca Feng",Street Journal",
+                                                               "description": "U.S.-based Nardello and other investigation companies move empl
+            "title": "Risk-Advisory Firms Decide Hong Kong Isn't Worth It - WSJ - The Wall oyees out of the city as business dwindles and China cracks down",
+            "url": "https://www.wsj.com/business/risk-advisory-firms-decide-hong-kong-isnt-worth-it-f2bde437",
+            "urlToImage": "https://images.wsj.net/im-868322/social",
+            "publishedAt": "2023-10-16T04:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Vrinda Jain",
+            "title": "X user claims a Starbucks employee got fired for leaking drink recipes - Hindustan Times",
+            "description": "Since the post was shared many people bookmarked it. Several also said that it would be difficult to get the quality of Starbucks at home.  | Trending",
+            "url": "https://www.hindustantimes.com/trending/x-user-claims-a-starbucks-employee-got-fired-for-leaking-drink-recipes-101697427449930.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/16/1600x900/starbucks_leaked_recipes_1697427913752_1697427920287.png",
+            "publishedAt": "2023-10-16T03:48:05Z",
+            "content": "An X user claimed that a Starbucks employee got fired for leaking the drink recipes of the coffeehouse on social media. Since this post was shared on the micro-blogging platform, it has gone crazy vi… [+1401 chars]"
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Megan Liscomb",
+            "title": "30 Tiny Little Money-Saving Habits That Really Add Up - BuzzFeed",
+            "description": "\"I only buy out-of-season clothes. I have a $700 coat that I bought brand new for $100, and it will last me for life with proper maintenance.\"",
+            "url": "https://www.buzzfeed.com/meganeliscomb/money-saving-habits-that-add-up",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-10/11/23/enhanced/e9da5af1458c/original-7417-1697065683-3.jpg?crop=1243:651;0,72%26downsize=1250:*",
+            "publishedAt": "2023-10-16T03:46:02Z",
+            "content": "\"At a conservative estimate of $3 per roll of paper towels and one roll per week, I save $156/year. Over 15 years, I have saved $2340, enough to buy five sergers and a tall stack of used sheets, even… [+56 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "Keith Speights",
+            "title": "Here's How Much Your 2024 Social Security Increase Would Have Been If Joe Biden Had His Way - The Motley Fool",
+            "description": "Many retirees will probably like this alternative future.",
+            "url": "https://www.fool.com/retirement/2023/10/15/heres-how-much-your-2024-social-security-increase/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/750128/biden-official-white-house-photo-by-adam-schultz.jpg",
+            "publishedAt": "2023-10-16T03:45:00Z",
+            "content": "The numbers are in. To be specific, one number that matters tremendously to retirees is in. On Thursday, the Social Security Administration (SSA) announced the amount of the \"raise\" that Social Secur… [+3773 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Jesse Coghlan",
+            "title": "Sam Bankman-Fried needs more Adderall to focus during trial, say lawyers - Cointelegraph",
+            "description": "Lawyers for Sam Bankman-Fried have asked if he can take extended-release Adderall as the FTX founder is unable to properly focus during trial hours.",
+            "url": "https://cointelegraph.com/news/sam-bankman-fried-requests-adderall-ftx-founder-fraud-trial",
+            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/308fb966-e76e-47f5-980b-71e088c31395.jpg",
+            "publishedAt": "2023-10-16T02:48:45Z",
+            "content": "FTX co-founder Sam Bankman-Fried has asked a United States judge for long-release Adderall, saying hes finding it hard to concentrate properly during his criminal trial.\r\nIn an Oct. 15 letter to New … [+2742 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Swati Pandey",
+            "title": "India, Indonesia Risk Biggest Fallout From Geopolitical Shocks - Bloomberg",
+            "description": "A triumvirate of high oil prices, a surging dollar and geopolitical instability are set to weigh on India and Indonesia among Asia’s emerging markets, while energy exporter Malaysia may prove a rare beneficiary.",
+            "url": "https://www.bloomberg.com/news/articles/2023-10-16/india-indonesia-risk-biggest-fallout-from-geopolitical-shocks",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ica_iJ_gPk50/v0/1200x799.jpg",
+            "publishedAt": "2023-10-16T01:55:08Z",
+            "content": "A triumvirate of high oil prices, a surging dollar and geopolitical instability are set to weigh on India and Indonesia among Asias emerging markets, while energy exporter Malaysia may prove a rare b… [+364 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Emma Rumney",
+            "title": "Big Tobacco turns to rooibos tea to counter upcoming ban - Reuters",
+            "description": "Big Tobacco firms including British American Tobacco <a href=\"https://www.reuters.com/markets/companies/BATS.L\" target=\"_blank\">(BATS.L)</a> are selling heat sticks made from nicotine-infused substances such as rooibos tea, countering an incoming European Uni…",
+            "url": "https://www.reuters.com/business/retail-consumer/big-tobacco-turns-rooibos-tea-counter-upcoming-ban-2023-10-16/",
+            "urlToImage": "https://www.reuters.com/resizer/nLHlxN0T84-K8gNhxE-9iaKNuJE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KJOIVMWKPJN5XCF4WP2SGUZHAA.jpg",
+            "publishedAt": "2023-10-16T00:32:53Z",
+            "content": "LONDON, Oct 16 (Reuters) - Big Tobacco firms including British American Tobacco (BATS.L) are selling heat sticks made from nicotine-infused substances such as rooibos tea, countering an incoming Euro… [+4476 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Shreyashi Sanyal, Lim Hui Jie",
+            "title": "Asia markets dip as investors look ahead to China GDP, Japan inflation data - CNBC",
+            "description": "China will release its third-quarter gross domestic product, while Japan's inflation data and South Korea's rate decision are also expected this week.",
+            "url": "https://www.cnbc.com/2023/10/16/asia-stock-markets-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107275996-1690265782638-gettyimages-1568546745-vcg111446786977.jpeg?v=1697413315&w=1920&h=1080",
+            "publishedAt": "2023-10-16T00:20:00Z",
+            "content": "December gold futures contracts closed 3.11% higher Friday, turning in the strongest one-day advance since Dec. 2022, and rising above their 50- and 200-day moving averages for the first since Sept. … [+832 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Anchalee Worrachate, Liz Capo McCormick",
+            "title": "Time Is Running Out for the 'Year of the Bond' as Losses Mount - Bloomberg",
+            "description": "The tagline from Wall Street was that 2023 was the year of the bond. Instead, fund managers are coming to terms with one of the toughest years ever.",
+            "url": "https://www.bloomberg.com/news/articles/2023-10-15/time-is-running-out-for-the-year-of-the-bond-as-losses-mount",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibVjL_gvVUZM/v1/1200x800.jpg",
+            "publishedAt": "2023-10-16T00:17:36Z",
+            "content": "The tagline from Wall Street was that 2023 was the year of the bond. Instead, fund managers are coming to terms with one of the toughest years ever.\r\nLacy Hunt, Hoisington Investment Management Co.s … [+170 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Amala Balakrishner",
+            "title": "Want to retire in 5 years? Here's how to invest for it, according to the pros - CNBC",
+            "description": "If you're looking to retire in the near-ish future, here's where the pros suggest putting your money.",
+            "url": "https://www.cnbc.com/2023/10/16/want-to-retire-in-5-years-heres-how-to-invest-for-it-according-to-the-pros.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/47019592-man-pulling-out-cash-wallet-200.jpg?v=1697415137&w=1920&h=1080",
+            "publishedAt": "2023-10-16T00:12:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Jenny Leonard, Mackenzie Hawkins, Ian King, Debby Wu",
+            "title": "US Will Tighten Curbs on China's Access to Advanced Chip Tech - Bloomberg",
+            "description": "The US plans to tighten sweeping measures to restrict China’s access to advanced semiconductors and chipmaking gear, seeking to prevent its geopolitical rival from obtaining cutting-edge technologies that could give it a military edge.",
+            "url": "https://www.bloomberg.com/news/articles/2023-10-15/us-will-tighten-curbs-on-china-s-access-to-advanced-chip-tech",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDAemmc5dXYs/v1/1200x800.jpg",
+            "publishedAt": "2023-10-15T23:58:17Z",
+            "content": "The US plans to tighten sweeping measures to restrict Chinas access to advanced semiconductors and chipmaking gear, seeking to prevent its geopolitical rival from obtaining cutting-edge technologies … [+421 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Byron Kaye",
+            "title": "Australia fines Musk's X platform $386000 over anti-child abuse gaps - Reuters",
+            "description": "An Australian regulator has fined Elon Musk's social media platform X A$610,500 ($386,000) for failing to cooperate with a probe into anti-child abuse practices, a blow to a company that has struggled to keep advertisers amid complaints it is going soft on mo…",
+            "url": "https://www.reuters.com/technology/australia-fines-musks-x-platform-386000-over-anti-child-abuse-gaps-2023-10-15/",
+            "urlToImage": "https://www.reuters.com/resizer/Ybxd6meo0iJwVjLmKEgJnIQJKQc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QRN2CBIUOVMUFD3TRS3WRSZEWQ.jpg",
+            "publishedAt": "2023-10-15T23:33:00Z",
+            "content": "SYDNEY, Oct 16 (Reuters) - An Australian regulator has fined Elon Musk's social media platform X A$610,500 ($386,000) for failing to cooperate with a probe into anti-child abuse practices, a blow to … [+3792 chars]"
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Elizabeth Lilly",
+            "title": "35 Small Tips To Make Your Kitchen Look So Much Better - BuzzFeed",
+            "description": "Turns out, a little under-cabinet lighting you can stick on as you listen to a podcast can make a huge difference.",
+            "url": "https://www.buzzfeed.com/elizabethlilly/tips-make-kitchen-look-better-an",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-10/11/12/campaign_images/32436e47d44f/35-small-tips-to-make-your-kitchen-look-so-much-b-3-492-1697029011-0_dblbig.jpg",
+            "publishedAt": "2023-10-15T23:31:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore",
+            "title": "Autoworkers in Canada OK deal with GM - CNN",
+            "description": "",
+            "url": "https://www.cnn.com/2023/10/15/business/gm-canada-ratification-vote/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231010114850-03-unifor-canada-general-motors-st-catharines-autoworkers-strike-1010.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-10-15T23:28:00Z",
+            "content": "Autoworkers in Canada ratified a new labor contract Sunday with General Motors, averting a resumption of a strike that had lasted about 13 hours on Tuesday.\r\nMembers of Unifor, the Canadian union tha… [+3045 chars]"
+        }
+    ]
+}
